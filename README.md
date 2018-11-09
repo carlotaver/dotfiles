@@ -16,7 +16,7 @@ COnsultar [Generating a new SSH key and adding it to the ssh-agent](https://help
 > xclip -sel clip < ~/.ssh/id_rsa.pub
 ```
 
-Finalmente,nosotros necesitamos perform los pasos desde el 2 [Añadir ssh keys para cuenta github ]([https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account)
+Finalmente,nosotros necesitamos perform los pasos desde el 2 [Añadir ssh keys para cuenta github](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account)
 
 ## COmo instalar
 
